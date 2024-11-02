@@ -1,0 +1,6 @@
+@NAC2_HostAddress = http://localhost:5069
+
+GET {{NAC2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

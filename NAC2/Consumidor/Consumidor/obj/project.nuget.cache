@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2wBOFsESKHwX4erNgQ6l2f/0lln2jhUHY8tPg9H1a2hEK1G6UXJInt9T87ILDBUsVWxDw8LiSeFlE6+gGtWjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nathl\\Downloads\\cypress-testes-main\\cypress-testes-main\\NAC2\\Consumidor\\Consumidor\\Consumidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nathl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nathl\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\nathl\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\nathl\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
